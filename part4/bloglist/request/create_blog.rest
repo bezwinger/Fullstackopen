@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs HTTP/1.1
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InN1cGVydGVzdHVzZXIiLCJpZCI6IjVmYTY5NDVhN2NjNGUxMTk3MDE4MzMzMSIsImlhdCI6MTYwNDc2Njk3MH0.JNFhhM_gbS1mOif0CWNqM0X0fdY5Raih3DvgVai5Cd4
+
+{
+    "title":"deletetest",
+    "author":"Shitstain",
+    "url":"shit.com",
+    "likes":"69"
+}

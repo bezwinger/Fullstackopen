@@ -1,0 +1,13 @@
+PUT http://localhost:3003/api/blogs/5f8317dbe72d0b4e209d8c8b HTTP/1.1
+Content-Type: application/json
+
+
+{
+    "title":"Buzzfeed unsolved",
+    "author":"Shitstain",
+    "url":"shit.com",
+    "likes":"69420"
+}
+
+
+
